@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add pineapple as topping
+=======
+other topping
+>>>>>>> add_pineapple
